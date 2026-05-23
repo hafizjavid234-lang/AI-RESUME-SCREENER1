@@ -70,48 +70,7 @@ AI-RESUME-SCREENER1/
 
 ---
 
-# How to Run the Project
 
-## Step 1
-Open the notebook in Google Colab.
-
-## Step 2
-Install required libraries.
-
-```python
-!pip install PyPDF2 python-docx nltk scikit-learn pandas pdfplumber
-```
-
-## Step 3
-Upload resumes.
-
-## Step 4
-Add job description.
-
-## Step 5
-Run all cells.
-
-## Step 6
-View ranked resumes and output CSV file.
-
----
-
-# Sample Job Description
-
-```python
-job_description = """
-Looking for a Data Scientist with skills in:
-Python,
-Machine Learning,
-Deep Learning,
-SQL,
-NLP,
-Flask,
-Data Analysis
-"""
-```
-
----
 
 # Example Output
 
@@ -123,16 +82,7 @@ Data Analysis
 
 ---
 
-# Future Improvements
 
-- Deep Learning Resume Screening
-- BERT NLP Model
-- Streamlit Web Application
-- Resume Skill Extraction
-- ATS Score Prediction
-- Interview Recommendation System
-
----
 
 # Author
 
@@ -140,11 +90,3 @@ Abdul Hafiz
 
 ---
 
-# GitHub Repository
-
-Upload this project to GitHub and use it for:
-- Resume
-- Portfolio
-- Internship Applications
-- Final Year Projects
-- LinkedIn Showcase
